@@ -166,4 +166,5 @@ ul li .link{
 
 .footer ul li a:hover{
     text-decoration: underline;
+   color: white;
 }
